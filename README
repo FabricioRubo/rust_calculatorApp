@@ -1,0 +1,3 @@
+Use 'args' to set the 2 numbers and the operator for the calculation.
+
+cargo run -- first_number operator second_number 
